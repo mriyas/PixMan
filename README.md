@@ -11,5 +11,5 @@ Specs:
 
 Known Issues :
 
-- Undo will not work on Add Text.(Issue is causing by the prious stack object is overriting current one, need 30 minutes fix it)
+- Undo will not work on Add Text.(Issue is causing by the prious stack object is overwriting current one, need 30 minutes fix it)
 - Large bitmap handling is not tested
