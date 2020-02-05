@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PixMan</string>
+    <string name="pickImage">Choose Image</string>
+    <string name="preview_changes">Preview Changes</string>
+    <string name="flip_horizontal">Flip Horizontal</string>
+    <string name="flip_vertical">Flip Vertical</string>
+    <string name="opacity_50">Opacity 50%</string>
+    <string name="add_text_greedy_game">Add Text \"GreedyGame\"</string>
+    <string name="save">Save</string>
+    <string name="undo">Undo</string>
+</resources>
