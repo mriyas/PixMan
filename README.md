@@ -11,5 +11,5 @@ PixMan is a powerful image editing app for Android which helps in applying a few
 
 ## Known Issues :
 
-- Undo will not work on Add Text.(Issue is prious stack object is overwriting current one, need 30 minutes fix it)
+- Undo will not work on Add Text.(Issue is prious stack object is overwriting current one)
 - Large bitmap handling is not tested
